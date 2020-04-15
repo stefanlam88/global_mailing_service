@@ -19,20 +19,20 @@ This project requires 3 components.<br />
 	"subject":"TEST",
 	"html": "123"
 }
-<br />
-5. Comments / Remark<br />
+<br /><br />
+5. Comments / Remark<br /><br />
 -This project using queue from library bull. In order to send email efficiently. Once API called, it will return success to the client while background is processing follow up emails and form emails sending.
-<br />
+<br /><br />
 -This template can be customized enhanced again using table row concept. Input JSON can be included such as array type of content and position to be more customization.
-<br />
+<br /><br />
 -This template can be enhanced with attachment but short of time.
-<br />
+<br /><br />
 6. http:/localhost:3000/mail/send<br />
 API URL
-<br />
+<br /><br />
 7. This project using helmet and rate limiting for security purpose.
-<br />
+<br /><br />
 8. This project using logger to track logging purpose.
-<br />
+<br /><br />
 9. Sample screen shot can be provided in screenshot folder for references.
 <br />
