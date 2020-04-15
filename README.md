@@ -36,3 +36,5 @@ API URL
 <br /><br />
 9. Sample screen shot can be provided in screenshot folder for references.
 <br />
+
+p/s: npm install reminder
